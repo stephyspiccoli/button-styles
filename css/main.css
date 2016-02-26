@@ -12,11 +12,11 @@ div {
   text-align: center;
 }
 
-nav div li a {
+nav div a {
   text-decoration: none;
 }
 
-nav div li {
+nav div {
   list-style-type: none;
 }
 
