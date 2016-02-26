@@ -22,9 +22,8 @@ nav div li {
 
 .btn {
   display: inline-block;
-  background-color: grey;
-  border-radius: 10px;
+  border-radius: 8px;
   border: solid 5px black;
   margin: 5px;
-  padding: 8px;
+  padding: .4em .75em .3em;
 }
