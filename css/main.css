@@ -27,3 +27,35 @@ nav div {
   margin: 5px;
   padding: .4em .75em .3em;
 }
+
+.btn-big {
+  font-size: 1.125rem;
+}
+
+.btn-small {
+  font-size: 0.875rem;
+}
+
+.btn-warning {
+  background-color: #f33;
+  color: #fff;
+  border: solid 5px #f33;
+}
+
+.btn-subtle {
+  background-color: #ccc;
+  color: #fff;
+  border: solid 5px #ccc
+}
+
+.btn-primary {
+  background-color: #666;
+  color: #fff;
+  border: solid 5px #666
+}
+
+.btn-ghost {
+  background-color: #fff;
+  color: #000;
+  border: solid 5px #000
+}
