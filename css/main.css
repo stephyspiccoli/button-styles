@@ -11,3 +11,20 @@ div {
   padding: .5rem;
   text-align: center;
 }
+
+nav div li a {
+  text-decoration: none;
+}
+
+nav div li {
+  list-style-type: none;
+}
+
+.btn {
+  display: inline-block;
+  background-color: grey;
+  border-radius: 10px;
+  border: solid 5px black;
+  margin: 5px;
+  padding: 8px;
+}
